@@ -1,26 +1,39 @@
-# Hi there, I'm Akam Kaya 👋
 
-## About Me
-- 🎓 PhD Scholar at Central South University, Hunan, China
-- 🤖 Researching Embodied AI and Autonomous Robot Navigation
-- 🔍 Focusing on path planning algorithms and spatial intelligence for robotics
-- 🌱 Always exploring new advancements in robotics and AI
 
-## Research Interests
-- Embodied AI
-- Motion Planning & Navigation
-- Reinforcement Learning for Robotics
-- Computer Vision for Autonomous Systems
+#### **About Me**
+👋 Hi there, I'm **Akam Kaya** (Akam Mohammed Omer)
+- 🎓 **PhD Scholar** at Central South University, Hunan, China
+- 🤖 **Research Focus**: Embodied AI, Autonomous Robot Navigation, and State Representation Learning
+- 🧠 **Specialization**: Markov Decision Processes (MDPs), Reinforcement Learning, and Spatial Intelligence for Robotics
+- 💡 **Passionate** about bridging theory and implementation in robotics and AI
 
-## Skills
-- **Programming Languages**: Python, C++, JavaScript
-- **Tools & Frameworks**: 
-  - ROS (Robot Operating System)
-  - PyTorch/TensorFlow
-  - OpenCV
-  - NumPy/SciPy
-  - Git
-- **Robotics & AI**: SLAM, Path Planning, Computer Vision, Reinforcement Learning
+---
+
+#### **Research Interests**
+- **Theoretical Foundations**: MDPs, Control Theory, and State Representation Learning
+- **Autonomous Systems**: Motion Planning, Navigation, and Path Planning Algorithms
+- **Machine Learning**: Reinforcement Learning for Robotics, Deep Learning for State Prediction
+- **Simulation Environments**: PyBullet, Gym, Mujoco, and CARLA for validation and testing
+
+---
+
+#### **Skills**
+- **Programming**: Python, C++, JavaScript
+- **Tools & Frameworks**:
+  - Robotics: ROS (Robot Operating System), SLAM, OpenCV
+  - AI/ML: PyTorch, TensorFlow, NumPy, SciPy, Scikit-learn
+  - Version Control: Git, GitHub
+- **Theoretical Knowledge**: MDPs, Reinforcement Learning, Computer Vision, Control Theory
+
+---
+
+#### **Projects & Goals**
+- Developing **compact, generalizable state representations** for robotics using high-dimensional sensory data (vision/LiDAR).
+- Implementing **deep learning models** for validation in simulated environments.
+- Exploring **cross-task generalization** and robustness in autonomous systems.
+
+---
+
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/akam-kaya-370282262/)
